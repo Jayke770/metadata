@@ -1,0 +1,17 @@
+{
+  "name": "PSI 2",
+  "description": "PSI 2",
+  "image": "https://raw.githubusercontent.com/psi0ne/metadata/master/KC72778K26QJ/KC72778K26QJ.png",
+  "external_url": "https://raw.githubusercontent.com/psi0ne/metadata/master/KC72778K26QJ/KC72778K26QJ.png",
+  "chain": "team",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "KC72778K26QJ"
+    },
+    {
+      "trait_type": "Price",
+      "value": 1
+    }
+  ]
+}
