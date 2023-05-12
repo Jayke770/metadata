@@ -1,0 +1,17 @@
+{
+  "name": "PEPE",
+  "description": "PEPE",
+  "image": "https://raw.githubusercontent.com/psi0ne/metadata/master/2LCYE3OVOD3G/2LCYE3OVOD3G.png",
+  "external_url": "https://raw.githubusercontent.com/psi0ne/metadata/master/2LCYE3OVOD3G/2LCYE3OVOD3G.png",
+  "chain": "team",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "2LCYE3OVOD3G"
+    },
+    {
+      "trait_type": "Price",
+      "value": 5
+    }
+  ]
+}
