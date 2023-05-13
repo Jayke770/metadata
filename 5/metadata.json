@@ -1,0 +1,17 @@
+{
+  "name": "TEST",
+  "description": "TEST",
+  "image": "https://raw.githubusercontent.com/psi0ne/metadata/master/5/5.png",
+  "external_url": "https://raw.githubusercontent.com/psi0ne/metadata/master/5/5.png",
+  "chain": "team",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "5"
+    },
+    {
+      "trait_type": "Price",
+      "value": 5
+    }
+  ]
+}
